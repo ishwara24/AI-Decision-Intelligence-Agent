@@ -1,0 +1,22 @@
+WEEKLY BUSINESS INSIGHTS REPORT
+========================================
+
+EXECUTIVE BUSINESS SUMMARY
+------------------------------
+
+Key Signals Detected:
+- Revenue dropped by -16.0% in week 4.
+- Revenue dropped by -34.8% in week 26.
+- There are 767 transactions with high churn risk.
+- West region is generating the lowest total profit.
+
+Business Interpretation:
+Recent performance indicates revenue volatility, margin pressure, and elevated customer churn risk. Regional underperformance suggests possible demand or operational inefficiencies.
+
+Recommended Actions:
+- Investigate weeks with sharp revenue decline and identify demand drivers.
+- Review pricing and cost structures for low-margin products.
+- Launch retention initiatives for high churn-risk customers.
+- Conduct regional performance audits to address profitability gaps.
+
+Overall Business Health: ⚠️ Needs Attention
